@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gerisai
-- 👀 I’m interested in Web Development and Software Defined Networks
+- 👀 I’m interested in Web/Software Development and Software Defined Networking
 - 🌱 I’m currently learning Go and Rust
 - 📫 How to reach me gerardoisai.diaz@gmail.com
 
